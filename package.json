@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "openai": "^4.72.0"
+  },
+  "name": "rekrutacja",
+  "description": "- Node.js w wersji `>=18`\r - Klucz API OpenAI\r - Plik `article.txt` zawierający treść artykułu do przekształcenia",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Karol Sałaciński",
+  "license": "MIT"
+}
